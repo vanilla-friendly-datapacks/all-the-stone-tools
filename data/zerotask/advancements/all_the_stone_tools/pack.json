@@ -6,12 +6,12 @@
   },
   "display": {
     "announce_to_chat": false,
-    "description": "",
+    "description": "Stone tools can be made from all stones",
     "icon": {
-      "item": ""
+      "item": "minecraft:stone_pickaxe"
     },
     "show_toast": false,
-    "title": ""
+    "title": "All the Stone Tools"
   },
   "parent": "global:zerotask"
 }
